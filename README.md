@@ -1,4 +1,4 @@
-kooking_book
+Recipe_book
 Usage
 
 Creating a virtual environment python -m venv venv
